@@ -1,4 +1,4 @@
-# Data Structure and Algorithms & Concepts of Object-Oriented Programming #
+# Data Structure and Algorithms & Object-Oriented Programming #
 Text Editor: 
 
 
