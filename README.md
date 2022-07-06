@@ -1,5 +1,5 @@
 # Data Structure and Algorithms & Object-Oriented Programming #
-Text Editor: 
+<------------      Text Editor:      ------------->
 
 
 What is there for user:          
