@@ -1,6 +1,7 @@
 # Data Structure and Algorithms & Concepts of Object-Oriented Programming #
 Text Editor: 
 
+
 What is there for user:
 
 We designed Text Editor using C++ to provide users better texting experience. Text Editor has functionalities such as add text, Multiple times Undo text, Redo text, Find and replace the text, search text, etc. 
